@@ -1,0 +1,19 @@
+order_id,order_date,customer_id,customer_name,product_name,category,region,quantity,unit_price,cost,revenue,profit
+1001,2026-01-05,C001,Asha Verma,Laptop,Electronics,North,1,85000,68000,85000,17000
+1002,2026-01-07,C002,Rahul Mehta,Wireless Mouse,Electronics,West,3,1200,700,3600,1500
+1003,2026-01-10,C003,Neha Singh,Office Chair,Furniture,South,2,9500,6200,19000,6600
+1004,2026-01-12,C001,Asha Verma,Desk Lamp,Home Decor,North,4,1500,900,6000,2400
+1005,2026-02-02,C004,Vikram Rao,Smartphone,Electronics,East,2,42000,34000,84000,16000
+1006,2026-02-05,C005,Priya Nair,Coffee Maker,Home Appliances,West,1,7800,5200,7800,2600
+1007,2026-02-11,C006,Arjun Patel,Notebook Stationery,Books,South,10,200,120,2000,800
+1008,2026-03-01,C002,Rahul Mehta,Keyboard,Electronics,West,2,2500,1600,5000,1800
+1009,2026-03-09,C007,Sneha Kapoor,Bookshelf,Furniture,North,1,12500,8600,12500,3900
+1010,2026-03-15,C008,Karan Joshi,Headphones,Electronics,East,3,4500,2800,13500,5100
+1011,2026-04-04,C009,Meera Iyer,Air Fryer,Home Appliances,South,1,11500,8200,11500,3300
+1012,2026-04-18,C010,Sameer Khan,Water Bottle,Accessories,West,6,600,300,3600,1800
+1013,2026-05-06,C003,Neha Singh,Tablet,Electronics,North,1,32000,25000,32000,7000
+1014,2026-05-20,C005,Priya Nair,Table Fan,Home Appliances,West,2,3200,2100,6400,2200
+1015,2026-06-03,C006,Arjun Patel,Study Desk,Furniture,South,1,18000,13000,18000,5000
+1016,2026-06-14,C011,Tanya Das,Backpack,Accessories,East,5,1800,1100,9000,3500
+1017,2026-06-22,C012,Imran Ali,Smartwatch,Electronics,North,2,15000,11200,30000,7600
+1018,2026-07-01,C013,Farah Noor,Printer,Electronics,West,1,22000,17500,22000,4500
